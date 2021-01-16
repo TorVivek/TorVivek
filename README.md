@@ -13,7 +13,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.instagram.com/vivek.-.keviv/">Instagram</a>
+├─◈ <a href="https://www.instagram.com/vivek.-.keviv">Instagram</a>
 ├─◈ <a href="https://t.me/Vivek_Malviyaa">Telegram</a>
 │
 └────────────────────▰▰▰
