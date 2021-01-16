@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**TorVivek/TorVivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
 
-Here are some ideas to get you started:
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Student
+├─▣ My Inspiration : Elon Musk
+├─▣ Content Creator
+├─▣ <a href="#">About Me</a>
+│
+└────────────────────▰▰▰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.instagram.com/vivek.-.keviv/">Instagram</a>
+├─◈ <a href="https://t.me/Vivek_Malviyaa">Telegram</a>
+│
+└────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/TorVivek/noob-virgin/">Noob Virgin</a>
+├─◈ <a href="https://github.com/TorVivek/Python-Movie-Website">Python-movie-website</a>
+├─◈ <a href="https://github.com/TorVivek/techno">Static Website</a>
+│
+└────────────────────▰▰▰
+
+    ┈╭━━━━━━━━━━━╮┈
+    ┈┃╭━━━╮┊╭━━━╮┃┈
+    ╭┫┃┈▇┈┃┊┃┈▇┈┃┣╮
+    ┃┃╰━━━╯┊╰━━━╯┃┃
+    ╰┫╭━╮╰━━━╯╭━╮┣╯
+    ┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈
+    ┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈
+    ┈╰━━━━━━━━━━━╯┈
+</pre>
